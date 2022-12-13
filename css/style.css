@@ -1,0 +1,18 @@
+a{
+    color: #444444;
+    text-decoration: none;
+}
+.header-container{
+    width: 1168px;
+    background-color: rgb(255, 255, 255);
+    margin-left: auto ;
+    margin-right: auto ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header-nav{
+    justify-content: center;
+}
+.header-link{
+}
